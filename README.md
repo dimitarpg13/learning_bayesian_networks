@@ -1,4 +1,4 @@
-# learning_bayesian_networks
+# Learning Bayesian Networks
 This repo is a work in progress.
 
 This is supplementary material to the book _"Learning Bayesian Networks"_ by R. Neapolitan.
