@@ -19,3 +19,7 @@
 * [Variational Inference: A Review for Statisticians, D. Blei et al, 2016](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/VariationalInferenceReviewForStatisticiansBlei2016.pdf)
 
 * [The Causal Interpretation of Bayesian Networks, Korb and Nicholson, 2008](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/CausalInterpretationofBNsKorbNicholson2008_Chapter.pdf)
+
+## medium
+
+* [Bayesian Inference Problem, MCMC and Variational Inference with Joseph Rocca](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
