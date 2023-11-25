@@ -5,6 +5,7 @@
 * [Learning Bayesian Networks, Richard Neapolitan, 2006](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/LearningBayesianNetworksRNeapolitan.pdf)
 
 ## articles
+* [Graphical Models, Exponential Families, and Variational Inference, M.J. Wainwright et al, 2008](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/GraphicalModelsExponentialFamiliesAndVariationalInferenceWainwrightJordan2008.pdf)
 
 * [Bayesian Methods for Adaptive Models, D, MacKay, PhD Thesis, Caltech, 1992](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/BayesianMethodsMcKaythesis1992.pdf)
 
