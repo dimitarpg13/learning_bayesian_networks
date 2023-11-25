@@ -1,8 +1,10 @@
 # Learning Bayesian Networks Resources
 
-## Book
+## Books
 
 * [Learning Bayesian Networks, Richard Neapolitan, 2006](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/LearningBayesianNetworksRNeapolitan.pdf)
+
+* [Elements of Causal Inference: Foundations and Learning Algorithms, Jonas Peters, Dominik Janzing, Bernhard Scholkoepf, MIT Press, 2017](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/Elements_of_Causal_Inference_Jonas_Peters_2017.pdf)
 
 ## articles
 * [Graphical Models, Exponential Families, and Variational Inference, M.J. Wainwright et al, 2008](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/GraphicalModelsExponentialFamiliesAndVariationalInferenceWainwrightJordan2008.pdf)
