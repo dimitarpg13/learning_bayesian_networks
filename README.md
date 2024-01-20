@@ -31,4 +31,6 @@ We are going to look closely into the examples and exercises of chapters from th
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
+ * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
+
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
