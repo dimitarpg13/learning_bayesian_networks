@@ -57,7 +57,9 @@
 
 * [Causal Inference, Part 2](https://youtu.be/g5v-NvNoJQQ)
 
-[Causal Inference: A Gentle Introduction with Michael Hudgens, UNC CCCR, 2021](https://youtu.be/_l1kZe0tNb0)
+### UNC CCCR Speaker Series 2021
+
+* [Causal Inference: A Gentle Introduction with Michael Hudgens, UNC Chapel Hill, 2021](https://youtu.be/_l1kZe0tNb0)
 
 ### Brief Introduction to Causal Inference with Brady Neal, 2020
 
