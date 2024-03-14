@@ -30,3 +30,71 @@
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
 
     related paper: [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guido Imbens, 2015](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
+
+## videos
+
+* [Keynote: The Mathematics of Causal Inference with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
+
+### MLSS Cadiz 2016, Jonas Peters
+
+* [Lecture 1](https://youtu.be/_wFagI5Fn9I)
+
+* [Lecture 2](https://youtu.be/5cjmlcmhisw)
+
+### Lectures on Causality: Jonas Peters, Broad Institute, MIT, 2017
+
+* [Lecture 1](https://youtu.be/zvrcyqcN9Wo)
+
+* [Lecture 2](https://youtu.be/bHOGP5o3Vu0)
+
+* [Lecture 3](https://youtu.be/Jp4UcgpVA2I)
+
+* [Lecture 4](https://youtu.be/ytnr_2dyyMU)
+
+### MIT 6.S897 Machine Learning for Healthcare, Spring 2019
+
+* [Causal Inference, Part 1](https://youtu.be/gRkUhg9Wb-I)
+
+* [Causal Inference, Part 2](https://youtu.be/g5v-NvNoJQQ)
+
+### UNC CCCR Speaker Series 2021
+
+* [Causal Inference: A Gentle Introduction with Michael Hudgens, UNC Chapel Hill, 2021](https://youtu.be/_l1kZe0tNb0)
+
+### Brief Introduction to Causal Inference with Brady Neal, 2020
+
+* [Lecture 1 Brief Introduction to Causal Inference: Preview](https://youtu.be/DXBPtpBhGqo)
+
+* [Lecture 2 Potential Outcomes](https://youtu.be/5x_pPemAVxs)
+
+* [Lecture 3 The Flow of Causation and Association in Graphs](https://youtu.be/BX6hdDH3lqQ)
+
+* [Lecture 4 Causal Models](https://youtu.be/AuZu0L0PEgk)
+
+* [Lecture 5 Randomized Experiments and Identification](https://youtu.be/9X4pR4jvKmM)
+
+* [Lecture 6 Estimation](https://youtu.be/_Wr4cWr_ZjU)
+
+* [Lecture 7 Unobserved Confounding, Bounds, and Sensitivity Analysis](https://youtu.be/K6kwNUsYK7Y)
+
+* [Lecture 8 Instrumental Variables](https://youtu.be/B0SRWteGoOw)
+
+* [Lecture 9 Difference-in-Differences](https://youtu.be/2nDgrNP7XSE)
+
+* [Alberto Abadie Guest Talk - Synthetic Controls](https://youtu.be/nKzNp-qpE-I)
+
+* [Lecture 10 Causal Discovery from Observational Data](https://youtu.be/1_b7jgupoAE)
+
+* [Lecture 11 Causal Discovery from Interventions](https://youtu.be/MHCi8IR81ok)
+
+* [Lecture 12 Transfer Learning and Transportability](https://youtu.be/k9Vq5jQF1IY)
+
+* [Lecture 13 Counterfactuals and Mediation](https://youtu.be/eLPjFDeyUL4)
+
+### Yoshua Bengio, Causal Representation Learning, 2020
+
+* [Yoshua Bengio Guest Talk - Towards Causal Representation Learning](https://youtu.be/rKZJ0TJWvTk)
+
+### Causal Representation Learning
+
+* [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge, 2021](https://youtu.be/hKs-PHZnIbQ)
