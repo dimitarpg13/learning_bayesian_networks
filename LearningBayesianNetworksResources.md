@@ -31,7 +31,7 @@
 
     related paper: [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guido Imbens, 2015](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
-## videos
+## online videos, books, blogs and tutorials
 
 * [Keynote: The Mathematics of Causal Inference with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
 
@@ -98,3 +98,8 @@
 ### Causal Representation Learning
 
 * [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge, 2021](https://youtu.be/hKs-PHZnIbQ)
+
+### Bayesian Methods
+
+* [Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
