@@ -27,6 +27,8 @@
 
 * [Bayesian Inference Problem, MCMC and Variational Inference with Joseph Rocca](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 
+* [Understanding V-Structures and the Critical Role They Play in Causal Validation and Causal Inference, Graham Harrison, March 2024](https://towardsdatascience.com/understanding-v-structures-and-the-role-they-play-in-causal-validation-and-causal-infrence-7e7910200f9f)
+
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
 
     related paper: [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guido Imbens, 2015](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
