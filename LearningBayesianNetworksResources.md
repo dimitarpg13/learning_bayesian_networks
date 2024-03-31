@@ -27,11 +27,63 @@
 
 * [Bayesian Inference Problem, MCMC and Variational Inference with Joseph Rocca](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 
+* [Causal Inference is a mindset, Ehud Karavani](https://medium.com/@ehudkr/causal-inference-is-a-mindset-b5725bf1ca65)
+
+* [Using machine learning metrics to evaluate causal inference models, Ehud Karavani](https://medium.com/towards-data-science/using-machine-learning-metrics-to-evaluate-causal-inference-models-d066f1bb2b7a)
+
+* [Solving Simpson's Paradox with Inverse Probability Weighting, Ehud Karavani](https://medium.com/towards-data-science/solving-simpsons-paradox-with-inverse-probability-weighting-79dbb1395597)
+
+* [Causal Inference with Continuous Treatments, Ehud Karavani](https://medium.com/towards-data-science/causal-inference-with-continuous-treatments-5ff691869a65)
+
+* [Establishing Causality with Michal Oleszak (Part 1): The golden standard of randomized experiments](https://towardsdatascience.com/establishing-causality-part-1-49cb9230884c)
+
+* [Establishing Causality with Michal Oleszak (Part 2): Enforcing randomness via instrumental variables](https://towardsdatascience.com/establishing-causality-part-2-45ab696d2246)
+
+* [Establishing Causality with Michal Oleszak (Part 3): Regression discontinuity designs](https://towardsdatascience.com/establishing-causality-part-3-3e8f8c546f9a)
+
+* [Causal Inference with Jane Huang (Part 1): Understanding the fundamentals](https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a)
+
+* [Causal Inference with Jane Huang (Part 2): Selecting algorithms](https://medium.com/data-science-at-microsoft/causal-inference-part-2-of-3-selecting-algorithms-a966f8228a2d)
+
+* [Causal Inference with Jane Huang (Part 3): Model validation and applications](https://medium.com/data-science-at-microsoft/causal-inference-part-3-of-3-model-validation-and-applications-c84764156a29)
+
+* [Causal Inference - Simpson's Paradox with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-i-415538211aa1)
+
+* [Causal Inference - Probability Theory with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-ii-probability-theory-8fc804fa8240)
+
+* [Causal Inference - Graphs with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-iii-graphs-df043300add1)
+
+* [Causal Inference - Structural Causal Models with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)
+
+* [Causal Inference - Chains and Forks with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-v-chains-and-forks-7b0b088c346e)
+
+* [Causal Inference - Colliders with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vi-colliders-af07301c9a15)
+
+* [Causal Inference - d-separation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)
+
+* [Causal Inference - Model Testing and Causal Search with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-vii-model-testing-and-causal-search-536b796f0384)
+
+* [Causal Inference - Interventions with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)
+
+* [Causal Inference - The Adjustment Formula with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)
+
+* [Causal Inference - Back Door Criterion with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)
+
+* [Causal Inference - Front Door Criterion with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
+
+* [Causal Inference - Conditional Interventions and Covariate Specific Effects with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xiii-conditional-interventions-and-covariate-specific-effects-1c0126b8b996)
+
+* [Causal Inference - Inverse Probability Weighing with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xiv-inverse-probability-weighing-f81680321427)
+
+* [Causal Inference - Mediation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xv-mediation-26a20212adc9)
+
+* [Understanding V-Structures and the Critical Role They Play in Causal Validation and Causal Inference, Graham Harrison, March 2024](https://towardsdatascience.com/understanding-v-structures-and-the-role-they-play-in-causal-validation-and-causal-infrence-7e7910200f9f)
+
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
 
     related paper: [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guido Imbens, 2015](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
-## videos
+## online videos, books, blogs and tutorials
 
 * [Keynote: The Mathematics of Causal Inference with Reflections on Machine Learning](https://youtu.be/bcRl7sXR1hE)
 
@@ -98,3 +150,8 @@
 ### Causal Representation Learning
 
 * [Causal Representation Learning Presentation, Chaochao Lu, Unviersity of Cambridge, 2021](https://youtu.be/hKs-PHZnIbQ)
+
+### Bayesian Methods
+
+* [Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
