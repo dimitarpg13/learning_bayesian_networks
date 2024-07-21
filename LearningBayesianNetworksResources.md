@@ -8,8 +8,16 @@
 
 * [Latent Variable Models: Introduction to Factor Analysis and Structural Equation Analysis, John C. Loehlin, 2004](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/Latent_Variable_Models_Loehlin_2004.pdf)
 
+* [Bayesian Networks and Decision Graphs, 2 edition, Finn Jensen, Springer, 2007](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/Bayesian_Networks_and_Decision_Graphs_2ed_Finn_Jensen_Springer_2007.pdf)
+
+* [Introduction to Bayesian Networks, Timo Koski, John Noble, 2009](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/Introduction_to_Bayesian_Networks_Timo_Koski.pdf)
+
 ## articles
 * [Graphical Models, Exponential Families, and Variational Inference, M.J. Wainwright et al, 2008](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/GraphicalModelsExponentialFamiliesAndVariationalInferenceWainwrightJordan2008.pdf)
+
+* [Graphical Models, Message Passing Algorithms, and Variational Methods, M.J. Wainwright, Part I, slides UC Berkeley](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/docs/Graphical_models_message-passing_algorithms_and_variational_methods_Wainwright_PartI.pdf)
+
+* [Graphical Models, Message Passing Algorithms, and Variational Methods, M.J. Wainwright, Part II, slides UC Berkeley](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/docs/Graphical_models_message-passing_algorithms_and_variational_methods_Wainwright_PartII.pdf)
 
 * [Bayesian Methods for Adaptive Models, D, MacKay, PhD Thesis, Caltech, 1992](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/BayesianMethodsMcKaythesis1992.pdf)
 
