@@ -45,7 +45,7 @@ We are going to look closely into the examples and exercises of chapters from th
 
  * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
 
- * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
+ * [Thought Forming, Consciousness, Intelligent Machines, Semantic Inference](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
 ## Note
 
