@@ -2,3 +2,4 @@ articles/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf filte
 book/Latent_Variable_Models_Loehlin_2004.pdf filter=lfs diff=lfs merge=lfs -text
 book/Bayesian_Networks_and_Decision_Graphs_2ed_Finn_Jensen_Springer_2007.pdf filter=lfs diff=lfs merge=lfs -text
 book/Introduction_to_Bayesian_Networks_Timo_Koski.pdf filter=lfs diff=lfs merge=lfs -text
+book/BayesianReasoningAndMachineLearningBarber2007-2020.pdf filter=lfs diff=lfs merge=lfs -text
