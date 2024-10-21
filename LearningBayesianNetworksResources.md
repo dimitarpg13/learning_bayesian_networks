@@ -12,6 +12,8 @@
 
 * [Introduction to Bayesian Networks, Timo Koski, John Noble, 2009](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/Introduction_to_Bayesian_Networks_Timo_Koski.pdf)
 
+* [Bayesian Reasoning and Machine Learning, David Barber, Lecture Notes at UCLA, 2007 - 2020](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/book/BayesianReasoningAndMachineLearningBarber2007-2020.pdf)
+
 ## articles
 * [Graphical Models, Exponential Families, and Variational Inference, M.J. Wainwright et al, 2008](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/GraphicalModelsExponentialFamiliesAndVariationalInferenceWainwrightJordan2008.pdf)
 
@@ -28,6 +30,8 @@
 * [Inference in Belief Networks: A Procedural Guide, C. Huang, Stanford, 1994](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/InferenceinBeliefNetworks-AProceduralGuide_Huang1994.pdf)
 
 * [Tutorial on Learning with Bayesian Networks, D. Heckerman, 2022](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/TutorialForLearningWithBayesianNetworksHeckerman2022.pdf)
+
+* [Probabilistic Modeling and Learning: The Junction Tree Algorithm, David Barber, 2003](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
 
 * [Variational Inference: A Review for Statisticians, D. Blei et al, 2016](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/articles/VariationalInferenceReviewForStatisticiansBlei2016.pdf)
 
